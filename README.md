@@ -11,6 +11,18 @@ The Phase Locked Loop is a circuit which can be clock signal generator without n
 
 ![pll_photo_2022-03-05_17-17-22](https://user-images.githubusercontent.com/89923461/156881676-3c678632-b67d-4e2d-9c45-9f76994d2bcf.jpg)
 
+## Phase Frequency Detector
+
+The Phase Frequency Detector is a circuit whch can measure the phase difference between the two signals: input and reference signals. Initially, XOR was in the discussion for a p
+
+
+
+
+
+
+
+
+
 
 # Day 2: PLL Labs and Post Layout Simulations
 
