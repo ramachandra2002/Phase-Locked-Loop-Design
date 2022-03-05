@@ -96,6 +96,19 @@ The Layout Design for the sub circuits are done *magic* tool. The invoke the mag
 magic -T <technology_file_name.tech> <layout.mag>
 ```
 
+## Frequency Divider
+
+By typing the command `magic -T sky130A.tech FD.mag`, we can open the layout of the circuit,
+
+![Picture1](https://user-images.githubusercontent.com/89923461/156879510-ab278910-443a-413b-bee8-ace19e49f517.png)
+
+## Phase Frequency Detector
+
+By typing the command `magic -T sky130A.tech PFD.mag`, we can open the layout of the circuit,
+
+![1_Picture2](https://user-images.githubusercontent.com/89923461/156879604-aa5c48cb-048d-4cb3-9ffa-c5cb9cfa8228.png)
+
+![2_Picture2](https://user-images.githubusercontent.com/89923461/156879601-45ff9ab9-76b2-450f-98db-1894277f3a8d.png)
 
 
 
