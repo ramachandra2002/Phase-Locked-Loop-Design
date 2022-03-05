@@ -110,6 +110,25 @@ By typing the command `magic -T sky130A.tech PFD.mag`, we can open the layout of
 
 ![2_Picture2](https://user-images.githubusercontent.com/89923461/156879601-45ff9ab9-76b2-450f-98db-1894277f3a8d.png)
 
+##  Charge Pump
+
+By typing the command `magic -T sky130A.tech CP.mag`, we can open the layout of the circuit,
+
+![1_Picture2](https://user-images.githubusercontent.com/89923461/156879649-39687d85-85b0-49b8-aed5-1b53c7bae09a.png)
+
+![2_Picture2](https://user-images.githubusercontent.com/89923461/156879652-2bf43f52-decd-4b8c-a006-20306c896b66.png)
+
+## Voltage Controlled Oscillator
+
+By typing the command `magic -T sky130A.tech VCO.mag`, we can open the layout of the circuit,
+
+![1_Picture2](https://user-images.githubusercontent.com/89923461/156879695-77ab69d9-dc65-4078-826d-1afea8c48981.png)
+
+![2_Picture2](https://user-images.githubusercontent.com/89923461/156879696-8ab73d68-22af-4fe7-93f0-1a59971aacd1.png)
+
+
+
+
 
 
 
