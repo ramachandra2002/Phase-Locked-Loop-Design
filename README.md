@@ -15,10 +15,14 @@ The Phase Locked Loop is a circuit which can be clock signal generator without n
 
 The Phase Frequency Detector is a circuit whch can measure the phase difference between the two signals: input and reference signals. Initially, XOR was in the discussion for a phase detector from the signals. But the problem in using XOR as a phase frequency detector is that it cannot tell the difference between lagging and leading. The design of the phase detector is using two D Flip flops along with AND gate for detecting using the UP and DOWN signals. 
 
+![pfd_photo_2022-03-05_19-01-42](https://user-images.githubusercontent.com/89923461/156885412-a51a223c-c82b-4b88-9692-354735e60b2a.jpg)
 
 ## Charge Pump
 
 Charge Pump is a circuit that uses capacitors for energetic charge storage to raise and lower voltage. This circuit incorporates current steering circuits. Based on the given up or down signal, a current steering circuit steers or directs the current flow from the Vdd to the output or from the output to the ground. If the up signal is active, current travels from the Vdd to the output capacitor, charging it. The voltage at the CP output is raised as a result. When the down signal is activated, current flows from the output capacitor to ground, discharging the output. The voltage at the CP output is reduced as a result.
+
+![cp_photo_2022-03-05_19-01-48](https://user-images.githubusercontent.com/89923461/156885426-ac49ed49-8ac1-4e48-9c0e-c62b7aea1ced.jpg)
+
 
 ## Voltage Controlled Oscillator
 
