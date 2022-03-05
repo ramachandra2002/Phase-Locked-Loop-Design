@@ -84,6 +84,8 @@ PLL design using the separate sub circuit's spice files,
 
 After the `ngspice PLL_PreLay.cir` command,
 
+![2sim_Picture1](https://user-images.githubusercontent.com/89923461/156878898-e19fc58e-7321-4e07-be47-ab3a785cea2e.png)
+
 ![2_127783355-32111d1c-00c2-4697-a09f-596713cf9852](https://user-images.githubusercontent.com/89923461/156878830-1c538091-8378-4330-af14-072391bc03a6.jpeg)
 
 
