@@ -76,4 +76,18 @@ After the `ngspice VCO.cir` command,
 
 ![4wav_Picture1](https://user-images.githubusercontent.com/89923461/156878479-2fc13160-57d6-4921-a9d7-ee5f83a5d685.png)
 
+## PLL using sub circuits
+
+PLL design using the separate sub circuit's spice files,
+
+![1sp_Picture1](https://user-images.githubusercontent.com/89923461/156878832-8457903e-1e59-4bdc-bfc6-1ee1a01e7c94.png)
+
+After the `ngspice PLL_PreLay.cir` command,
+
+![2_127783355-32111d1c-00c2-4697-a09f-596713cf9852](https://user-images.githubusercontent.com/89923461/156878830-1c538091-8378-4330-af14-072391bc03a6.jpeg)
+
+
+
+
+
 
