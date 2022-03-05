@@ -28,9 +28,13 @@ Charge Pump is a circuit that uses capacitors for energetic charge storage to ra
 
 A Ring Oscillator is a circuit which contains a series of odd number of inverters. The frequency of oscillator depends upon the delay and charging capacity of the capacitance in the mos transistors. So, if the current is very high, the output may be charged more quickly. We can change the frequency of the ring oscillator by starving it of current.
 
+![vco_](https://user-images.githubusercontent.com/89923461/156886305-d0983862-8ce5-4181-9526-80ccb3e6e228.jpg)
+
 ## Frequency Divider
 
 Frequency Divider is the circuit that produces an output that is the clock input divided by the specified value. The design of frequency divider contains a toggle D flip flop is half the frequency of the input signal. 
+
+![dff_photo_2022-03-05_19-22-16](https://user-images.githubusercontent.com/89923461/156886322-6a69b331-1aa1-4264-994e-019a5c888692.jpg)
 
 # Tools Used
 
