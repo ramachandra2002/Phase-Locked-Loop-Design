@@ -162,7 +162,7 @@ ngspice PFD_PostLay.cir
 
 # Tapeout
 
-GDSII file is regarded the final format for manufacturing, the IC designed cannot be provided in that format. The design must be "readied" for manufacture which is called as the tapeout. This preparation would include any addition that aids in connecting the wafer to the outside world. This might involve the addition of I/O ports, UARTs, and other peripherals. Efabless offers a free "shuttle" that will transport our design. The below image shows what a Caravel SoC is,
+GDSII file is regarded the final format for manufacturing, the IC designed cannot be provided in that format. The design must be "readied" for manufacture which is called as the tapeout. This preparation would include any addition that aids in connecting the wafer to the outside world. This might involve the addition of I/O ports, UARTs, and other peripherals. The below image shows what a Caravel SoC is,
 
 ![1_127822463-cd54b92b-b178-4f99-913d-33ef7c995c53](https://user-images.githubusercontent.com/89923461/156881172-e01536c0-2741-4ee8-8447-a3586717faa1.jpeg)
 
