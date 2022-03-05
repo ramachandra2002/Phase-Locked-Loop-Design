@@ -26,9 +26,22 @@ The spice file for this corresponding circuit is,
 
 After the `ngspice PD.cir` command, 
 
-![wave_Picture1](https://user-images.githubusercontent.com/89923461/156877791-d5e7f439-322d-4971-8fdd-22526ffa18d6.png)
-
 ![after_Picture1](https://user-images.githubusercontent.com/89923461/156877792-c4556565-cfce-4e4b-8ad3-e9d28dc81fbf.png)
 
+![wave_Picture1](https://user-images.githubusercontent.com/89923461/156877791-d5e7f439-322d-4971-8fdd-22526ffa18d6.png)
+
+## Frequency Divider
+
+The Frequency divider circuit which we are going to simulate is,
+
+![fd_ckt127781480-b09756aa-a4ce-48e4-8164-4fad67cf1f7d](https://user-images.githubusercontent.com/89923461/156878013-75848c29-5416-4e0a-a19f-55122ca9503f.jpeg)
+
+The spice file for this corresponding circuit is,
+
+![sp_Picture1](https://user-images.githubusercontent.com/89923461/156878010-63434cb2-083f-43d0-8ed0-842e7a6da414.png)
+
+After the `ngspice FD.cir` command, 
+
+![wave_Picture1](https://user-images.githubusercontent.com/89923461/156878011-5fa267f0-16ad-4545-9c93-18935b4e44f6.png)
 
 
