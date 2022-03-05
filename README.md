@@ -90,7 +90,11 @@ After the `ngspice PLL_PreLay.cir` command,
 
 
 # Layout Design
+The Layout Design for the sub circuits are done *magic* tool. The invoke the magic tool for new design, the command to type is,
 
+```
+magic -T <technology_file_name.tech> <layout.mag>
+```
 
 
 
