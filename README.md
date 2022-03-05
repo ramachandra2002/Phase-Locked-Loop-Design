@@ -7,3 +7,13 @@ This repository contains the details about design of Phase locked loop using sky
 
 # Introduction to PLL
 
+# Day 2: PLL Labs and Post Layout Simulations
+
+# Pre Layout Design and Simulations
+The PreLayout Simulations are done using *ngspice* software. First we must create a *.spice* file, to write about the nodes and the components present in the design. And then to simulate type this command in the terminal,
+
+```
+ngspice <filename.sp>
+```
+
+
