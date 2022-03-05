@@ -138,6 +138,27 @@ By typing the command `magic -T sky130A.tech MUX.mag`, we can open the layout of
  
  ![1_127783571-8c9939d1-c883-4e21-a04e-97d139257e1e](https://user-images.githubusercontent.com/89923461/156879939-59345484-3677-4521-9c32-c984e8593c05.jpeg)
 
+# Parasitics and Post-Layout Simulation
+
+Once the layouts of induvidual circuits are over, we need to extract the effect of capcitance in the circuit which is called as parasitics extraction. To extract the parasitics of the layout, we need to use the magic tool command
+
+```
+ext2spice
+```
+![1_Picture3](https://user-images.githubusercontent.com/89923461/156880821-0e40c9b3-7b0d-4397-9f91-740b81615094.png)
+
+![2_Picture3](https://user-images.githubusercontent.com/89923461/156880822-208ee07d-6323-4823-b92c-4e687b66a281.png)
+
+## Post-Layout Simulation
+
+Once we get the the corresponding spice file from the PFD circuit's layout, we need the simulate and the check the output for the same.
+
+```
+ngspice PFD_PostLay.cir
+```
+![3_Picture3](https://user-images.githubusercontent.com/89923461/156880880-4c412d2a-1726-4de1-9b4e-84b0a37d99ef.png)
+
+![4_Picture3](https://user-images.githubusercontent.com/89923461/156880881-4fe3a1c0-e38d-4c8d-a0e7-955c99fc02b6.png)
 
 
 
