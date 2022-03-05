@@ -60,8 +60,20 @@ After the `ngspice CP.cir` command,
 
 ![4sim_Picture1](https://user-images.githubusercontent.com/89923461/156878231-00157489-d031-4acc-a5c7-c090444637c2.png)
 
+## Voltage Controlled Oscillator
 
+The Voltage Controlled Oscillator circuit which we are going to simulate is,
 
+![1ckt_127782614-ed6b8289-cf29-4cd9-bfe7-078176fe6c26](https://user-images.githubusercontent.com/89923461/156878480-70f66e20-4084-43eb-8eaa-7491c85c9f5a.jpeg)
 
+The spice file for this corresponding circuit is,
+
+![2sp_Picture1](https://user-images.githubusercontent.com/89923461/156878483-a396f05f-b4d1-4476-8359-8917601df69d.png)
+
+After the `ngspice VCO.cir` command,
+
+![3sim_Picture1](https://user-images.githubusercontent.com/89923461/156878474-f23d3464-6874-433a-9956-d0054403c202.png)
+
+![4wav_Picture1](https://user-images.githubusercontent.com/89923461/156878479-2fc13160-57d6-4921-a9d7-ee5f83a5d685.png)
 
 
