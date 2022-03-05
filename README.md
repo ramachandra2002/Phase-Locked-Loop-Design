@@ -25,7 +25,7 @@ A Ring Oscillator is a circuit which contains a series of odd number of inverter
 
 ## Frequency Divider
 
-Frequency Divider is the circuit that produces an output that is the clock input divided by the specified value. 
+Frequency Divider is the circuit that produces an output that is the clock input divided by the specified value. The design of frequency divider contains a toggle D flip flop is half the frequency of the input signal. 
 
 
 
