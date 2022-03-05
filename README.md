@@ -7,6 +7,11 @@ This repository contains the details about design of Phase locked loop using sky
 
 # Introduction to PLL
 
+The Phase Locked Loop is a circuit which can be clock signal generator without noise and generate a frequency of our choice. One of the main purpose of the PLL is to generate a signal with *pure spectrum* without other frequency noises. The main components of a basic PLL are Voltage Controlled Oscillator, Phase Frequency Detector, Charge Pump, Low pass filter, frequency divider.
+
+![pll_photo_2022-03-05_17-17-22](https://user-images.githubusercontent.com/89923461/156881676-3c678632-b67d-4e2d-9c45-9f76994d2bcf.jpg)
+
+
 # Day 2: PLL Labs and Post Layout Simulations
 
 # Pre Layout Design and Simulations
