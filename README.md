@@ -39,13 +39,13 @@ Frequency Divider is the circuit that produces an output that is the clock input
 
 # Specifications
 
-Corner - TT
-Supply - 1.8V
-Room Temperature
-Input Fmin = 5MHz and Fmax = 12.5MHz
-Multiplier - 8x
-Jitter (RMS) <~ 20ns
-Duty Cycle - 50%
+- _Corner_ - TT
+- _Supply_ - 1.8V
+- _Room Temperature_
+- _Input_ Fmin = 5MHz and Fmax = 12.5MHz
+- _Multiplier_ - 8x
+- _Jitter_ (RMS) <~ 20ns
+- _Duty Cycle_ - 50%
 
 
 # Day 2: PLL Labs and Post Layout Simulations
@@ -209,9 +209,14 @@ GDSII file is regarded the final format for manufacturing, the IC designed canno
 
 Inside the Caravel's design, our design an be placed using the magic tool. Finally, the inputs and outputs are connected to the carvel template design using the magic tool.
 
+# Author
 
+Ramachandra T, B.E in Electronics and Communication Engineering at Madras Institute of Technology, Anna University
 
+# Acknowledgement
 
+1. Kunal Ghosh, VSD Corp.
+2. Lakshmi, MS ECE, Georgia Tech
 
 
 
