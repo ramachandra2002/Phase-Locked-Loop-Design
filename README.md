@@ -126,6 +126,19 @@ By typing the command `magic -T sky130A.tech VCO.mag`, we can open the layout of
 
 ![2_Picture2](https://user-images.githubusercontent.com/89923461/156879696-8ab73d68-22af-4fe7-93f0-1a59971aacd1.png)
 
+##  MUX
+
+By typing the command `magic -T sky130A.tech MUX.mag`, we can open the layout of the circuit,
+
+![Picture2](https://user-images.githubusercontent.com/89923461/156879975-e939df7f-095a-4e79-8227-b6786eba131f.png)
+
+## PLL
+
+ Once the sub circuits layouts are finished, we have to create a new layout and place the sub circuit layout using ` File > Place Instance`
+ 
+ ![1_127783571-8c9939d1-c883-4e21-a04e-97d139257e1e](https://user-images.githubusercontent.com/89923461/156879939-59345484-3677-4521-9c32-c984e8593c05.jpeg)
+
+
 
 
 
